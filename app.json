@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A weather application built with React Native.\nCredits to @serranoarevalo",
+    "githubUrl": "https://github.com/bungaepyo/react-native-weather-app"
   }
 }
